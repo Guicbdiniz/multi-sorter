@@ -1,7 +1,7 @@
 {
   "name": "multi-sorter",
   "version": "1.0.0",
-  "description": "NodeJS command line program to sort an int array using multiple sorting algorithms",
+  "description": "NodeJS command line interface to sort an int array using multiple sorting algorithms",
   "main": "dist/index.js",
   "scripts": {
     "test": "npx jest",
