@@ -1,0 +1,28 @@
+{
+  "name": "multi-sorter",
+  "version": "1.0.0",
+  "description": "NodeJS command line program to sort an int array using multiple sorting algorithms",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npx jest",
+    "build": "npx tsc",
+    "prestart": "npm run build",
+    "start": "node /dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Guicbdiniz/multi-sorter"
+  },
+  "keywords": [
+    "sort",
+    "command",
+    "line",
+    "sorting",
+    "algorithm"
+  ],
+  "author": "Guicbdiniz",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}
