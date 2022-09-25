@@ -1,16 +1,16 @@
 export type sortingAlgorithm =
   | "bubble"
   | "shell"
-  | "insert"
-  | "select"
+  | "insertion"
+  | "selection"
   | "quick"
   | "merge";
 
 export const SORTING_ALGORITHMS = [
   "bubble",
   "shell",
-  "insert",
-  "select",
+  "insertion",
+  "selection",
   "quick",
   "merge",
 ];
