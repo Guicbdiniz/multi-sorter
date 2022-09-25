@@ -10,9 +10,9 @@ The repository was developed for an activity of the **Software Testing** subject
 
 Simply build the application using the Typescript CLI:
 
-´´´sh
+```sh
 npm run build
-´´´
+```
 
 ## Usage
 
