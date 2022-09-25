@@ -18,6 +18,7 @@ export default class InsertionSorter extends Sorter {
 
     return sortedArray;
   }
+
   public getType(): sortingAlgorithm {
     return "insertion";
   }
