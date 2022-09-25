@@ -8,7 +8,13 @@ The repository was developed for an activity of the **Software Testing** subject
 
 ## Installation
 
-Simply build the application using the Typescript CLI:
+First install all of the necessary packages:
+
+```sh
+npm i
+```
+
+Then build the application using the Typescript CLI:
 
 ```sh
 npm run build
