@@ -22,7 +22,7 @@ npm run build
 
 ## Usage
 
-To run the program, run the following command:
+To run the program, use the following command:
 
 ```sh
 node dist/index.js <full path to file with int array> <sorting method to be used>
